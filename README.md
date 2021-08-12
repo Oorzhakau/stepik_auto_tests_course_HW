@@ -1,2 +1,5 @@
 # stepik_auto_tests_course_HW
-Selenium and Python
+
+## Названия курса: Автоматизация тестирования с помощью Selenium и Python
+
+Данный репозиторий содержит домашние задания в рамках курса по ссылке: https://stepik.org/course/575/syllabus
