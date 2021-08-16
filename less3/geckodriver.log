@@ -1,0 +1,10 @@
+1629122580964	geckodriver	INFO	Listening on 127.0.0.1:59598
+1629122584048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ferma301\\AppData\\Local\\Temp\\rust_mozprofilez8Fx9R"
+JavaScript error: cck2.cfg, line 24: ReferenceError: Components is not defined
+1629122584499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ferma301\\AppData\\Local\\Temp\\rust_mozprofilez8Fx9R\\search.json.mozlz4", (void 0)))
+1629122586358	Marionette	INFO	Listening on port 59609
+1629122586717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629122589032	Marionette	INFO	Stopped listening on port 59609
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

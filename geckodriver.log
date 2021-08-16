@@ -1,0 +1,11 @@
+1629121890457	geckodriver	INFO	Listening on 127.0.0.1:51768
+1629121893533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ferma301\\AppData\\Local\\Temp\\rust_mozprofileEz6Ci0"
+JavaScript error: cck2.cfg, line 24: ReferenceError: Components is not defined
+1629121894179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ferma301\\AppData\\Local\\Temp\\rust_mozprofileEz6Ci0\\search.json.mozlz4", (void 0)))
+1629121896199	Marionette	INFO	Listening on port 51776
+1629121896225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1628529533, line 6075: unreachable code after return statement
+1629121915510	Marionette	INFO	Stopped listening on port 51776
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
