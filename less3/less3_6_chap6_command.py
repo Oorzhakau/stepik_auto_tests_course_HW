@@ -3,6 +3,8 @@
     pytest -s -v test_parser.py
     pytest -s -v --browser_name=chrome test_parser.py
     pytest -s -v --browser_name=firefox test_parser.py
+
+    pytest -m "smoke or regression" --browser_name=firefox test_login.py
 '''
 
 link = "http://selenium1py.pythonanywhere.com/"

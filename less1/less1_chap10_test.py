@@ -1,9 +1,15 @@
-from selenium import webdriver
 import time
+
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
 try:
     link = "http://suninjuly.github.io/registration1.html"
-    browser = webdriver.Chrome()
+
+    options = Options()
+    options.add_argument('--ignore-certificate-errors')
+
+    browser = webdriver.Chrome(options=options)
     browser.get(link)
 
     # Ваш код, который заполняет обязательные поля

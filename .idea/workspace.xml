@@ -2,111 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6df0b8df-dd6f-4b79-b76f-c98a1a89880c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/stepik_auto_tests_course_HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/less3_2_chap13_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/less3_6_chap3_autotest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/less3_6_chap6_command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/less3_6_chap7_rerun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_abs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_abs_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture10a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture10b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture81.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture8_2_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_fixture_autouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less3/test_xfail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/less2/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/get_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap10_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap10_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap11_pear_rev.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap11_pear_rev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap3_quit.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap3_quit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap4_enter_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap4_enter_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap5_find_text_in_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap5_find_text_in_link.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap6_find_elements_form100.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap6_find_elements_form100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less1_chap7_xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap7_xpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_1_step4_checkbox_radiobutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_1_step4_checkbox_radiobutton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_1_step6_checkbox_radiobutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_1_step6_checkbox_radiobutton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap2_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap2_select.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap4_Javascript.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap4_Javascript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap5_scroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap5_scroll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap6.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap7.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_2_chap8_send_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap8_send_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_3_chap3_alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_3_chap3_alert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_3_chap6_switch_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_3_chap6_switch_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_4_chap3_single_page_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap3_single_page_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_4_chap6_type_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap6_type_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_4_chap7.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap7_except_cond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less2_4_chap8.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less1/less1_chap6_basket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less1/less1_chap10_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap10_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less1/less1_chap7_xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less1_chap7_xpath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less2/less2_1_step6_checkbox_radiobutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_1_step6_checkbox_radiobutton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less2/less2_2_chap2_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap2_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less2/less2_2_chap6.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_2_chap6_path_to_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less2/less2_4_chap3_single_page_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap3_single_page_test_implicite_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less2/less2_4_chap7_except_cond.py" beforeDir="false" afterPath="$PROJECT_DIR$/less2/less2_4_chap7_except_cond_excplicite_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less3/less3_6_chap3_autotest.py" beforeDir="false" afterPath="$PROJECT_DIR$/less3/less3_6_chap3_autotest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less3/less3_6_chap6_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/less3/less3_6_chap6_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less3/test_repo2/language-test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/less3/test_repo2/language-test/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less3/test_repo2/language-test/test_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/less3/test_repo2/language-test/test_items.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="stepik_auto_tests_course_HW" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less3/less3_6_chap3_autotest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less3/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding>
-                <element signature="e#365#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less3/less3_6_chap6_command.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/less3/less3_6_chap7_rerun.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,12 +60,17 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="802" />
     <option name="y" value="350" />
     <option name="width" value="1071" />
     <option name="height" value="1051" />
   </component>
+  <component name="ProjectId" id="28Whw02wg1h7GMA4m3nAmwFmw4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,11 +83,6 @@
               <item name="stepik_auto_tests_course_HW" type="b2602c69:ProjectViewProjectNode" />
               <item name="stepik_auto_tests_course_HW" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="stepik_auto_tests_course_HW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stepik_auto_tests_course_HW" type="462c0819:PsiDirectoryNode" />
-              <item name="less3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,9 +90,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -185,18 +105,6 @@
       <recent name="C:\Users\Ferma301\Documents\Project\stepik_auto_tests_course_HW\less2" />
       <recent name="C:\Users\Ferma301\Documents\Project\stepik_auto_tests_course_HW\less1" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python tests.pytest for less3_6_chap3_autotest.test_guest_should_see_login_link">
     <configuration name="pytest for less3_6_chap3_autotest.test_guest_should_see_login_link" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -209,6 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;less3_6_chap3_autotest.test_guest_should_see_login_link&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -224,6 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;less3.less3_6_chap3_autotest.test_guest_should_see_login_link&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -239,6 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/less3/less3_6_chap3_autotest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -252,6 +163,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -300,7 +212,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1618" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.24968234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.24968234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5010352" side_tool="true" weight="0.24968234" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,7 +223,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -692,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less3/less3_6_chap7_rerun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="311">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
